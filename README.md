@@ -16,5 +16,4 @@ The challenges are grouped into directories based on their difficulty levels:
 - [1kyu Challenges](/1kyu): The most difficult challenges on Codewars.
 
 
-
-[Abdellatif]
+Abdellatif
